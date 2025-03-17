@@ -1,22 +1,82 @@
-# FinalProject_iwo
+# intro_research_resit
 Final project for Introduction Research Methods
 
 ## General Information (Abstract)
-I will save the abstract for when my final project is finished as recommended in class.
-For now I will paste the template that will be used to create the abstract:
+This paper investigates whether Science
+Fiction texts exhibit a higher frequency
+of neologisms compared to Romance lit-
+erature. Employing exclusion dictionary
+architecture (EDA) alongside established
+natural language processing (NLP) tech-
+niques provided by SpaCy, we systemat-
+ically identify and validate lexical neolo-
+gisms within texts from the early 20th cen-
+tury. By analyzing selected novels from
+both genres, we anticipate that science
+fiction authors utilize neologisms more
+frequently, reflecting genre-specific needs
+to articulate novel concepts and futuristic
+contexts. Our methodological approach
+includes detailed data preprocessing, can-
+didate neologism identification, and man-
+ual validation steps through Google’s n-
+gram viewer. Results indicate a substan-
+tially higher frequency of neologisms in
+science fiction (0.44%) compared to ro-
+mance novels (0.085%), supporting the
+hypothesis that lexical creativity is more
+prevalent in science fiction.
 
-Everyone agrees that this issue is really important. But we do not know much about this specific question, although it matters a great deal, for these reasons. We approach the problem from this perspective. Our research design focuses on these cases and relies on these data, which analyze using this method. Results show what we have learned about the question. They have these broader implications
+## References
 
-## Background Information
-Existing research has explored the introduction and frequency of new words (neologisms) in literature, but direct comparisons between genres remain limited.
+**Jamet:Terry:2018**  
+**Editors:** Denis Jamet and Adeline Terry  
+**Year:** 2018  
+**Title:** Lexical and Semantic Neology in English  
+**Publisher:** Lexis, Volume 12  
+**URL:** <https://journals.openedition.org/lexis/2521>  
+**Rationale:** Cited to illustrate the conceptual ambiguity surrounding “neology” (e.g., treating certain items as neologisms vs. nonce formations)
 
-**Pyo, J. (2023). Detection and Replacement of Neologisms for Translation. The Cooper Union for the Advancement of Science and Art.**
+---
 
-Pyo (2023) highlights a common problem in neologism detection, namely distinguishing between named entities and neologisms. Pyo recommends that future work leverage spaCy's Named Entity Recognition capabilities instead of relying solely on a pre-defined list of named entities, as implemented in his study.
+**poix:2018**  
+**Author:** Poix, Cécile  
+**Year:** 2018  
+**Title:** Neology in children’s literature: A typology of occasionalisms  
+**Journal:** Lexis, Volume 12  
+**URL:** <https://journals.openedition.org/lexis/2111>  
+**Rationale:** This paper looks at how new words show up in children’s books. We referenced it because it shows how imaginative writing (like science fiction) encourages authors to invent new words to describe unique ideas or worlds
 
-**Kerremans, D. & Prokić, J. (2018). Mining the Web for New Words: Semi-Automatic Neologism Identification with the NeoCrawler. Anglia, 136(2), 239-268. https://doi.org/10.1515/ang-2018-0032**
+---
 
-Kerremans and Prokić (2018) employ a dictionary-based matching procedure to identify potential neologisms, which directly influenced the development of this project's methodology.
+**pruvost2003neologismes**  
+**Authors:** Pruvost, J. and Sablayrolles, JF  
+**Year:** 2003  
+**Title:** Les n{\'e}ologismes, n 3674  
+**Journal:** Paris, «Que sais-je», p.17  
+**URL:** <https://journals-openedition-org.proxy-ub.rug.nl/studifrancesi/38567>  
+**Rationale:** They distinguish between new words (lexical neology) and new meanings of existing words (semantic neology). We turned to this work to keep our focus on genuinely new word forms rather than just new meanings
+
+---
+
+**cartier2017neoveille**  
+**Author:** Cartier, Emmanuel  
+**Year:** 2017  
+**Title:** Neoveille, a web platform for neologism tracking  
+**In:** Proceedings of the Software Demonstrations of the 15th Conference of the European Chapter of the Association for Computational Linguistics, pp.95–98  
+**URL:** <https://aclanthology.org/E17-3024/>  
+**Rationale:** Used as an example of an exclusion dictionary architecture (Neoveille)
+
+---
+
+**zalmout2019unsupervised**  
+**Authors:** Zalmout, Nasser and Thadani, Kapil and Pappu, Aasish  
+**Year:** 2019  
+**Title:** Unsupervised neologism normalization using embedding space mapping  
+**In:** Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019), pp.425–430  
+**URL:** <https://aclanthology.org/D19-5555/>  
+**Rationale:** This study combines word filtering with language processing tools (like spaCy) to cut down on mistaken hits (e.g., named entities). We drew from their approach to refine our own process for identifying true neologisms
+
 
 ## Research Question and Hypothesis
 
@@ -28,69 +88,123 @@ Science Fiction authors make more frequent use of neologisms than Romance author
 
 ## Method
 
-### 1. Data Collection and Preprocessing
+### Loading Texts
+**Scripts:** `load_novel.py`  
+**Input Directory/File:** `Gutenberg-dammit-files-v002.zip`  
+**Output Directory/Files:** `data/raw/romance/*.txt` and `data/raw/scifi/*.txt`  
 
-**Text Selection:**  
-- Source texts from Project Gutenberg.  
-- Identify a set of works clearly categorized as “Science Fiction” and another set as “Romance” using the metadata from Project Gutenberg.
-- Attempt to select texts from a similar historical period or at least record publication years for later analysis.
+| Genre   | Title                 | Author                   | Year |
+|---------|-----------------------|--------------------------|------|
+| Sci-Fi  | *The War in the Air*  | H. G. Wells             | 1908 |
+| Sci-Fi  | *A Princess of Mars*  | Edgar Rice Burroughs    | 1912 |
+| Sci-Fi  | *The Night Land*      | William Hope Hodgson    | 1912 |
+| Romance | *Three Weeks*         | Elinor Glyn             | 1907 |
+| Romance | *The Shuttle*         | Frances Hodgson Burnett | 1907 |
+| Romance | *The Rosary*          | Florence L. Barclay     | 1909 |
 
-**Cleaning and Tokenization:**  
-- Convert all downloaded texts into plain text format.  
-- Remove Project Gutenberg boilerplate metadata (e.g., disclaimers, licensing info).  
-- Tokenize texts into words using Python libraries like `NLTK` or `spaCy`.  
-- Convert tokens to lowercase.  
-- Remove punctuation and purely numerical tokens, retaining alphanumeric tokens that may be genre-specific. 
-- Optionally use lemmatization to group related word forms under a single lexeme (might be problematic for neologisms).
+To ensure a manageable and meaningful analysis, three influential books per genre were selected, each written by a different author and published within a similar time frame. This approach was chosen because:
 
-**Basic Filtering:**  
-- Exclude words that appear only once in a single text to reduce noise from typos.
+- It allows for filtering words using a historical dictionary.
+- It aligns with the project’s scope constraints.
+- Influential books provide strong representations of their genres.
+- Avoiding multiple works by the same author helps reduce author-specific bias.
 
-### 2. Identifying Candidate Neologisms
+We source these books from Project Gutenberg via the “Gutenberg-dammit” GitHub repository. The “Gutenberg-dammit” resource is particularly convenient because it provides plain-text versions of the novels (most boilerplate removed) and enables easy filtering by metadata.
 
-**Dictionary-Based Screening:**  
-- Compare all tokens against a modern English dictionary or large lexical database accessible via Python (e.g., `NLTK` wordlists or third-party lexicons).  
-- Flag any word not found in the dictionary as a candidate neologism.
+---
 
-**Temporal Adjustment Using a Historical Corpus:**  
-- Identify a historical English reference corpus roughly matching the time period of the selected texts.  
-- Check each candidate word against this historical corpus.  
-  - If a candidate word appears above a minimal frequency threshold in the historical corpus, it is not considered a neologism.
-  - If it does not appear or appears extremely rarely (below the threshold), keep it as a potential neologism.
+### Creation of Filter Dictionaries
+**Scripts:** `filter_dict_creator.py` and `gutendicter.py`  
+**Input:** `data/chambersstwentie00daviiala_djvu.txt` and `enberg-dammit-files-v002.zip`  
+**Output:** `data/dicts/extracted_chamber_entries.json` and `data/dicts/corpus_filter_dictionary.json`
 
-**Filtering out named entities:**
-- Pre-defined list of named entities (further research needed to find pre-established NE-corpera).
-- Leverage spaCy's NER capabilities as suggested by Pyo (2023).
+To identify potential neologisms, individual tokens from the selected Romance and Science Fiction novels are compared against two historical dictionaries:
 
-**Final Neologism Determination:**  
-- After these dictionary, temporal, and NER filters, the remaining candidates are considered neologisms.
+1. **Chambers Twentieth Century Dictionary (1901)**  
+   - Source: www.archive.org (OCR-scanned text).  
+   - We extracted 42,392 individual entries by detecting patterns (e.g., alphabetical ordering) from the scanned file, then saved them in JSON format.
 
-### 3. Measuring Relative Frequency
+2. **Corpus-Derived Dictionary**  
+   - Built by scanning all English Gutenberg texts whose authors died before 1900 (based on metadata).  
+   - We used fast regex-based token extraction rather than spaCy for this large corpus.  
+   - This yielded 1,611,708 unique entries in JSON format.
 
-**Computing Relative Frequency:**  
-- For each text, calculate the neologism frequency as the number of confirmed neologisms per a fixed number of tokens (e.g., per 10,000 words).  
-- Formula:  
-  Neologism Frequency = (Number of neologistic tokens ÷ Total tokens) × 10,000
+These two dictionaries collectively form the “exclusion dictionaries” used later to filter out words that are already attested in older English usage.
 
-**Aggregating by Genre:**  
-- Compute the average neologism frequency for all Science Fiction texts and all Romance texts.  
-- Use statistical tests if allowed (e.g., t-test or Mann-Whitney U, depending on data distribution) to compare the mean frequencies between the two genres.
+---
 
-### 4. Reporting and Interpretation
+### Preprocessing
+**Script:** `preprocessing.py`  
+**Input:** `data/raw/romance/*.txt` and `data/raw/scifi/*.txt`  
+**Output:**  
+- `data/processed/romance/*.json`  
+- `data/processed/scifi/*.json`  
+- `data/filtered/*.json`
 
-**Results:**  
-- Present the average neologism frequency for Science Fiction and Romance texts.  
-- Report the results of the statistical comparison and confidence intervals as appropriate.
+Even after the initial Gutenberg-dammit cleanup, some metadata remains in the texts (e.g., contents sections, chapter headings). We remove these leftovers, as well as certain artifacts that would interfere with tokenization. Next:
 
-**Limitations:**  
-- The chosen dictionary and historical corpus may not perfectly represent the language environment of the time.
-- Distinguishing proper nouns from neologisms is inherently a difficult task.
+1. **Tokenization and NLP Enrichment:**  
+   - Each novel is processed using spaCy’s `en_core_web_trf` model.  
+   - Every token is annotated with lemma, part-of-speech (POS), named entity recognition (NER) tags, etc.
+
+2. **Filtering and Unique Token Dictionaries:**  
+   - From each novel’s processed output, we build dictionaries of unique lowercased tokens.  
+   - We exclude tokens tagged as punctuation, stop words, named entities, or POS types like `PROPN`, `PUNCT`, `X`, and `SPACE`.  
+   - We track the total count of unique tokens for each genre, which will later help us normalize neologism frequencies.
+
+---
+
+### Detecting Neologism Candidates
+**Script:** `Neo_classifier.py`  
+**Input:**  
+- `data/filtered/romance_filtered.json` + `data/filtered/scifi_filtered.json`  
+- `data/dicts/extracted_chamber_entries.json` + `data/dicts/corpus_filter_dictionary.json`  
+**Output:**  
+- `data/candidates/romance/*.json`  
+- `data/candidates/scifi/*.json`
+
+Following the “exclusion dictionary architecture” (Cartier, 2017), we compare each token against both dictionaries. Any token found in either dictionary is removed from the list of potential neologisms. However, because neologisms often arise through new prefixes or suffixes, we also include tokens in which only the lemma (rather than the raw token form) is in the dictionary. This process yields:
+
+- **Romance:** 63 candidate neologisms  
+- **Science Fiction:** 187 candidate neologisms
+
+---
+
+### Manual Evaluation
+**Script:** `neo_validator.py`  
+**Input:**  
+- `data/candidates/romance/*.json`  
+- `data/candidates/scifi/*.json`  
+**Output:**  
+- `data/validated/romance/*.json`  
+- `data/validated/scifi/*.json`
+
+Given the limited scope (six novels total), we manually inspect all candidate neologisms. A custom interface presents each candidate’s metadata—such as raw form, lemma, POS, and frequency—along with a link to Google’s Ngram Viewer auto-filled with that token. A candidate is confirmed as a true neologism if:
+
+- It shows minimal or no usage before 1900 but spikes thereafter, **or**  
+- It is absent from Google’s Ngram Viewer without being a typographical error.
+
+After manual validation, we end up with:
+
+- **12 true Romance neologisms** (out of 63 candidates)  
+- **59 true Science Fiction neologisms** (out of 187 candidates)
+
+---
+
+### Final Neologism Counts and Normalization
+To account for differences in total unique tokens, we compute:
+
+- **Romance:** 12 neologisms out of 14,181 unique tokens  
+  - ≈ 0.085%  
+- **Science Fiction:** 59 neologisms out of 13,502 unique tokens  
+  - ≈ 0.44%
+
+This final normalization confirms a significantly higher proportion of new words in Science Fiction than in Romance texts.
 
 ## Tools
 
 - **Python:**  
-  - Data extraction and cleaning: 'gutenberg', 'Requests', 'spaCy', 'NLTK'
-  - Tokenization and lemmatization: 'NLTK', 'spaCy'  
-  - Dictionary and corpus lookups: Custom Python scripts, data from online APIs (e.g. Oxford English Dictionary) or downloaded corpora.
-  - Statistical analysis: 'scikit-learn'  
-  - Visualization: 'matplotlib'
+  - Data extraction and cleaning: 'gutenberg-dammit', 'regex'
+  - Tokenization, NER, POS, lemmatization: 'NLTK', 'spaCy', 'en_core_web_trf'
+  - Dictionary and corpus lookups: archive.com chambers early 20th century dictionary 1901 and gutenberg-dammit
+  - Keeping track of script progress to mantain sanity: 'tqdm'

@@ -1,0 +1,7 @@
+gutenbergdammit~=0.0.2
+spacy~=3.8.4
+tqdm~=4.67.1
+
+
+# python -m spacy download en_core_web_trf
+# place gutenberg-dammit-files-v002.zip in projects root dir
