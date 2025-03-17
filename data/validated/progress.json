@@ -1,0 +1,2890 @@
+{
+  "validated_true": {
+    "modernities": {
+      "word": "modernities",
+      "data": {
+        "full_form": "modernities",
+        "lemma": "modernity",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742133380.060617
+    },
+    "waldflute": {
+      "word": "waldflute",
+      "data": {
+        "full_form": "waldflute",
+        "lemma": "waldflute",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742134892.6671455
+    },
+    "togetherness": {
+      "word": "togetherness",
+      "data": {
+        "full_form": "togetherness",
+        "lemma": "togetherness",
+        "pos": "NOUN",
+        "frequency": 3
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137816.3844202
+    },
+    "washableness": {
+      "word": "washableness",
+      "data": {
+        "full_form": "washableness",
+        "lemma": "washableness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135119.561612
+    },
+    "unsporting": {
+      "word": "unsporting",
+      "data": {
+        "full_form": "unsporting",
+        "lemma": "unsporting",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135356.9192488
+    },
+    "blimme": {
+      "word": "blimme",
+      "data": {
+        "full_form": "Blimme",
+        "lemma": "blimme",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135528.8443322
+    },
+    "tabulator": {
+      "word": "tabulator",
+      "data": {
+        "full_form": "tabulator",
+        "lemma": "tabulator",
+        "pos": "NOUN",
+        "frequency": 3
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135544.6816585
+    },
+    "hardluck": {
+      "word": "hardluck",
+      "data": {
+        "full_form": "hardluck",
+        "lemma": "hardluck",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135555.2295408
+    },
+    "spacer": {
+      "word": "spacer",
+      "data": {
+        "full_form": "spacer",
+        "lemma": "spacer",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135561.1602943
+    },
+    "incidentalness": {
+      "word": "incidentalness",
+      "data": {
+        "full_form": "incidentalness",
+        "lemma": "incidentalness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135585.1528764
+    },
+    "amazingness": {
+      "word": "amazingness",
+      "data": {
+        "full_form": "amazingness",
+        "lemma": "amazingness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135591.9470727
+    },
+    "entreprenance": {
+      "word": "entreprenance",
+      "data": {
+        "full_form": "entreprenance",
+        "lemma": "entreprenance",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135755.0271766
+    },
+    "fiercened": {
+      "word": "fiercened",
+      "data": {
+        "full_form": "fiercened",
+        "lemma": "fiercene",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135819.2491872
+    },
+    "sidestepped": {
+      "word": "sidestepped",
+      "data": {
+        "full_form": "sidestepped",
+        "lemma": "sidestep",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136481.8648405
+    },
+    "mutilatings": {
+      "word": "mutilatings",
+      "data": {
+        "full_form": "mutilatings",
+        "lemma": "mutilating",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136024.878434
+    },
+    "cranings": {
+      "word": "cranings",
+      "data": {
+        "full_form": "cranings",
+        "lemma": "craning",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136173.8373654
+    },
+    "speedings": {
+      "word": "speedings",
+      "data": {
+        "full_form": "speedings",
+        "lemma": "speeding",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136182.0420048
+    },
+    "consortings": {
+      "word": "consortings",
+      "data": {
+        "full_form": "consortings",
+        "lemma": "consorting",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136192.1089816
+    },
+    "lumpings": {
+      "word": "lumpings",
+      "data": {
+        "full_form": "lumpings",
+        "lemma": "lumping",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136200.1835792
+    },
+    "moundings": {
+      "word": "moundings",
+      "data": {
+        "full_form": "moundings",
+        "lemma": "mounding",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136274.545112
+    },
+    "stenchings": {
+      "word": "stenchings",
+      "data": {
+        "full_form": "stenchings",
+        "lemma": "stenching",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136294.0526295
+    },
+    "thuddings": {
+      "word": "thuddings",
+      "data": {
+        "full_form": "thuddings",
+        "lemma": "thudding",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136643.5796444
+    },
+    "dumpings": {
+      "word": "dumpings",
+      "data": {
+        "full_form": "dumpings",
+        "lemma": "dumping",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136327.76471
+    },
+    "noisings": {
+      "word": "noisings",
+      "data": {
+        "full_form": "noisings",
+        "lemma": "noising",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136391.7187178
+    },
+    "musclings": {
+      "word": "musclings",
+      "data": {
+        "full_form": "musclings",
+        "lemma": "muscling",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136665.109235
+    },
+    "defyings": {
+      "word": "defyings",
+      "data": {
+        "full_form": "defyings",
+        "lemma": "defying",
+        "pos": "NOUN",
+        "frequency": 3
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136411.6285849
+    },
+    "adventurings": {
+      "word": "adventurings",
+      "data": {
+        "full_form": "adventurings",
+        "lemma": "adventuring",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136701.8082223
+    },
+    "clumpings": {
+      "word": "clumpings",
+      "data": {
+        "full_form": "clumpings",
+        "lemma": "clumping",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136424.6466916
+    },
+    "sprayings": {
+      "word": "sprayings",
+      "data": {
+        "full_form": "sprayings",
+        "lemma": "spraying",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136604.6707866
+    },
+    "aeroplanes": {
+      "word": "aeroplanes",
+      "data": {
+        "full_form": "Aeroplanes",
+        "lemma": "aeroplane",
+        "pos": "NOUN",
+        "frequency": 17
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136741.0534546
+    },
+    "gramophones": {
+      "word": "gramophones",
+      "data": {
+        "full_form": "gramophones",
+        "lemma": "gramophone",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136847.6717112
+    },
+    "chugments": {
+      "word": "chugments",
+      "data": {
+        "full_form": "chugments",
+        "lemma": "chugment",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136933.3816512
+    },
+    "sniped": {
+      "word": "sniped",
+      "data": {
+        "full_form": "sniped",
+        "lemma": "snipe",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136985.757758
+    },
+    "jeddaks": {
+      "word": "jeddaks",
+      "data": {
+        "full_form": "jeddaks",
+        "lemma": "jeddak",
+        "pos": "NOUN",
+        "frequency": 8
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137667.4093466
+    },
+    "zitidars": {
+      "word": "zitidars",
+      "data": {
+        "full_form": "zitidars",
+        "lemma": "zitidar",
+        "pos": "NOUN",
+        "frequency": 6
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137696.3650312
+    },
+    "zitidar": {
+      "word": "zitidar",
+      "data": {
+        "full_form": "zitidar",
+        "lemma": "zitidar",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137700.9975758
+    },
+    "tharks": {
+      "word": "tharks",
+      "data": {
+        "full_form": "Tharks",
+        "lemma": "thark",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137794.853793
+    },
+    "jeddak": {
+      "word": "jeddak",
+      "data": {
+        "full_form": "jeddak",
+        "lemma": "jeddak",
+        "pos": "NOUN",
+        "frequency": 31
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137798.275599
+    },
+    "padwar": {
+      "word": "padwar",
+      "data": {
+        "full_form": "padwar",
+        "lemma": "padwar",
+        "pos": "NOUN",
+        "frequency": 3
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137801.8277197
+    },
+    "barsoomian": {
+      "word": "barsoomian",
+      "data": {
+        "full_form": "Barsoomian",
+        "lemma": "barsoomian",
+        "pos": "ADJ",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137804.946735
+    },
+    "amissness": {
+      "word": "amissness",
+      "data": {
+        "full_form": "amissness",
+        "lemma": "amissness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137812.2189026
+    },
+    "futureness": {
+      "word": "futureness",
+      "data": {
+        "full_form": "futureness",
+        "lemma": "futureness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137832.6188686
+    },
+    "monstruwacans": {
+      "word": "monstruwacans",
+      "data": {
+        "full_form": "Monstruwacans",
+        "lemma": "monstruwacan",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137887.582204
+    },
+    "northwardness": {
+      "word": "northwardness",
+      "data": {
+        "full_form": "Northwardness",
+        "lemma": "northwardness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137970.199751
+    },
+    "monstruwacan": {
+      "word": "monstruwacan",
+      "data": {
+        "full_form": "Monstruwacan",
+        "lemma": "monstruwacan",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137990.5042913
+    },
+    "directwards": {
+      "word": "directwards",
+      "data": {
+        "full_form": "directwards",
+        "lemma": "directwards",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138094.5009215
+    },
+    "afraidness": {
+      "word": "afraidness",
+      "data": {
+        "full_form": "afraidness",
+        "lemma": "afraidness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138125.7240677
+    },
+    "mossbush": {
+      "word": "mossbush",
+      "data": {
+        "full_form": "mossbush",
+        "lemma": "mossbush",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138171.6348877
+    },
+    "oddwise": {
+      "word": "oddwise",
+      "data": {
+        "full_form": "oddwise",
+        "lemma": "oddwise",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138229.5719147
+    },
+    "phlocks": {
+      "word": "phlocks",
+      "data": {
+        "full_form": "phlocks",
+        "lemma": "phlock",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138257.4481838
+    },
+    "wavewise": {
+      "word": "wavewise",
+      "data": {
+        "full_form": "wavewise",
+        "lemma": "wavewise",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138371.0700946
+    },
+    "pretestings": {
+      "word": "pretestings",
+      "data": {
+        "full_form": "pretestings",
+        "lemma": "pretesting",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138478.352902
+    },
+    "mazingness": {
+      "word": "mazingness",
+      "data": {
+        "full_form": "mazingness",
+        "lemma": "mazingness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138536.4537888
+    },
+    "squarking": {
+      "word": "squarking",
+      "data": {
+        "full_form": "squarking",
+        "lemma": "squarking",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138582.0421925
+    },
+    "defyingness": {
+      "word": "defyingness",
+      "data": {
+        "full_form": "defyingness",
+        "lemma": "defyingness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138618.0353992
+    },
+    "teuffed": {
+      "word": "teuffed",
+      "data": {
+        "full_form": "teuffed",
+        "lemma": "teuffe",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138684.4460938
+    },
+    "gyroscopic": {
+      "word": "gyroscopic",
+      "data": {
+        "full_form": "gyroscopic",
+        "lemma": "gyroscopic",
+        "pos": "ADJ",
+        "frequency": 4
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138806.8940058
+    },
+    "snobocracies": {
+      "word": "snobocracies",
+      "data": {
+        "full_form": "snobocracies",
+        "lemma": "snobocracie",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138822.3363223
+    },
+    "teuf": {
+      "word": "teuf",
+      "data": {
+        "full_form": "teuf",
+        "lemma": "teuf",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138834.1759326
+    },
+    "teuffing": {
+      "word": "teuffing",
+      "data": {
+        "full_form": "teuffing",
+        "lemma": "teuffe",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138839.0006833
+    },
+    "tricars": {
+      "word": "tricars",
+      "data": {
+        "full_form": "tricars",
+        "lemma": "tricar",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138867.5109487
+    },
+    "twankle": {
+      "word": "twankle",
+      "data": {
+        "full_form": "twankle",
+        "lemma": "twankle",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138893.5798755
+    },
+    "rucksack": {
+      "word": "rucksack",
+      "data": {
+        "full_form": "rucksack",
+        "lemma": "rucksack",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138914.6168845
+    },
+    "balloonette": {
+      "word": "balloonette",
+      "data": {
+        "full_form": "balloonette",
+        "lemma": "balloonette",
+        "pos": "NOUN",
+        "frequency": 3
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138929.6189027
+    },
+    "squittering": {
+      "word": "squittering",
+      "data": {
+        "full_form": "squittering",
+        "lemma": "squittere",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139011.11683
+    },
+    "norfis": {
+      "word": "norfis",
+      "data": {
+        "full_form": "norfis",
+        "lemma": "norfis",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139021.0231678
+    },
+    "rucksac": {
+      "word": "rucksac",
+      "data": {
+        "full_form": "rucksac",
+        "lemma": "rucksac",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139026.5918791
+    },
+    "gazzer": {
+      "word": "gazzer",
+      "data": {
+        "full_form": "gazzer",
+        "lemma": "gazzer",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139069.9582381
+    },
+    "remofes": {
+      "word": "remofes",
+      "data": {
+        "full_form": "remofes",
+        "lemma": "remofe",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139078.1657343
+    },
+    "edop": {
+      "word": "edop",
+      "data": {
+        "full_form": "edop",
+        "lemma": "edop",
+        "pos": "VERB",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139091.9412036
+    },
+    "dthwarted": {
+      "word": "dthwarted",
+      "data": {
+        "full_form": "dthwarted",
+        "lemma": "dthwarte",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139222.304454
+    },
+    "hadt": {
+      "word": "hadt",
+      "data": {
+        "full_form": "hadt",
+        "lemma": "hadt",
+        "pos": "AUX",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139229.0228748
+    },
+    "drachenflieger": {
+      "word": "drachenflieger",
+      "data": {
+        "full_form": "drachenflieger",
+        "lemma": "drachenflieger",
+        "pos": "NOUN",
+        "frequency": 19
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139279.1201866
+    },
+    "urbanised": {
+      "word": "urbanised",
+      "data": {
+        "full_form": "urbanised",
+        "lemma": "urbanised",
+        "pos": "ADJ",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139291.6383271
+    },
+    "windspread": {
+      "word": "windspread",
+      "data": {
+        "full_form": "windspread",
+        "lemma": "windspread",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139306.7021298
+    },
+    "powerworks": {
+      "word": "powerworks",
+      "data": {
+        "full_form": "powerworks",
+        "lemma": "powerworks",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139339.419391
+    },
+    "battlettes": {
+      "word": "battlettes",
+      "data": {
+        "full_form": "battlettes",
+        "lemma": "battlette",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139346.5353296
+    },
+    "brekker": {
+      "word": "brekker",
+      "data": {
+        "full_form": "brekker",
+        "lemma": "brekker",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139366.3956344
+    },
+    "smeshin": {
+      "word": "smeshin",
+      "data": {
+        "full_form": "Smeshin",
+        "lemma": "Smeshin",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139389.4652789
+    },
+    "swirroo": {
+      "word": "swirroo",
+      "data": {
+        "full_form": "Swirroo",
+        "lemma": "swirroo",
+        "pos": "INTJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139444.5294282
+    },
+    "decolletage": {
+      "word": "decolletage",
+      "data": {
+        "full_form": "decolletage",
+        "lemma": "decolletage",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139474.9722443
+    },
+    "rubberin": {
+      "word": "rubberin",
+      "data": {
+        "full_form": "rubberin",
+        "lemma": "rubberin",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139478.803318
+    },
+    "deoriented": {
+      "word": "deoriented",
+      "data": {
+        "full_form": "deoriented",
+        "lemma": "deoriente",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139529.7222302
+    },
+    "flummocked": {
+      "word": "flummocked",
+      "data": {
+        "full_form": "flummocked",
+        "lemma": "flummocke",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139603.6423244
+    }
+  },
+  "validated_false": {
+    "washables": {
+      "word": "washables",
+      "data": {
+        "full_form": "washables",
+        "lemma": "washable",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742133337.2772927
+    },
+    "vanderpoels": {
+      "word": "vanderpoels",
+      "data": {
+        "full_form": "Vanderpoels",
+        "lemma": "vanderpoel",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742133460.7104673
+    },
+    "coniferas": {
+      "word": "coniferas",
+      "data": {
+        "full_form": "coniferas",
+        "lemma": "conifera",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742133489.2642953
+    },
+    "delphiniums": {
+      "word": "delphiniums",
+      "data": {
+        "full_form": "delphiniums",
+        "lemma": "delphinium",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742133520.4538414
+    },
+    "biking": {
+      "word": "biking",
+      "data": {
+        "full_form": "biking",
+        "lemma": "bike",
+        "pos": "VERB",
+        "frequency": 2
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742134488.6328702
+    },
+    "deadbeats": {
+      "word": "deadbeats",
+      "data": {
+        "full_form": "deadbeats",
+        "lemma": "deadbeat",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742134502.2804413
+    },
+    "monocles": {
+      "word": "monocles",
+      "data": {
+        "full_form": "monocles",
+        "lemma": "monocle",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742134523.4725795
+    },
+    "pussycats": {
+      "word": "pussycats",
+      "data": {
+        "full_form": "pussycats",
+        "lemma": "pussycat",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742134559.8601754
+    },
+    "millionairesses": {
+      "word": "millionairesses",
+      "data": {
+        "full_form": "millionairesses",
+        "lemma": "millionairess",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742134598.2009351
+    },
+    "oasts": {
+      "word": "oasts",
+      "data": {
+        "full_form": "oasts",
+        "lemma": "oast",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_neo_combinations",
+      "timestamp": 1742134617.9247868
+    },
+    "untakable": {
+      "word": "untakable",
+      "data": {
+        "full_form": "untakable",
+        "lemma": "untakable",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742134856.6984751
+    },
+    "pewful": {
+      "word": "pewful",
+      "data": {
+        "full_form": "pewful",
+        "lemma": "pewful",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742134878.05275
+    },
+    "dulciana": {
+      "word": "dulciana",
+      "data": {
+        "full_form": "dulciana",
+        "lemma": "dulciana",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135005.0818613
+    },
+    "fetchy": {
+      "word": "fetchy",
+      "data": {
+        "full_form": "fetchy",
+        "lemma": "fetchy",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135019.5707545
+    },
+    "paily": {
+      "word": "paily",
+      "data": {
+        "full_form": "paily",
+        "lemma": "paily",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135031.5596106
+    },
+    "dickery": {
+      "word": "dickery",
+      "data": {
+        "full_form": "dickery",
+        "lemma": "dickery",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135079.2532058
+    },
+    "unhaided": {
+      "word": "unhaided",
+      "data": {
+        "full_form": "unHaided",
+        "lemma": "unhaided",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135175.2479246
+    },
+    "haristocratic": {
+      "word": "haristocratic",
+      "data": {
+        "full_form": "Haristocratic",
+        "lemma": "haristocratic",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135188.6735814
+    },
+    "unutilisable": {
+      "word": "unutilisable",
+      "data": {
+        "full_form": "unutilisable",
+        "lemma": "unutilisable",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135287.4583964
+    },
+    "slanginess": {
+      "word": "slanginess",
+      "data": {
+        "full_form": "slanginess",
+        "lemma": "slanginess",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135297.289921
+    },
+    "unexplainableness": {
+      "word": "unexplainableness",
+      "data": {
+        "full_form": "unexplainableness",
+        "lemma": "unexplainableness",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135320.4540904
+    },
+    "inexcusability": {
+      "word": "inexcusability",
+      "data": {
+        "full_form": "inexcusability",
+        "lemma": "inexcusability",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135326.1994221
+    },
+    "suburbanity": {
+      "word": "suburbanity",
+      "data": {
+        "full_form": "suburbanity",
+        "lemma": "suburbanity",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135394.4909902
+    },
+    "hopkilns": {
+      "word": "hopkilns",
+      "data": {
+        "full_form": "hopkilns",
+        "lemma": "hopkiln",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135429.07607
+    },
+    "relatable": {
+      "word": "relatable",
+      "data": {
+        "full_form": "relatable",
+        "lemma": "relatable",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135505.2776794
+    },
+    "birdclaw": {
+      "word": "birdclaw",
+      "data": {
+        "full_form": "birdclaw",
+        "lemma": "birdclaw",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135513.0734506
+    },
+    "unblooming": {
+      "word": "unblooming",
+      "data": {
+        "full_form": "unblooming",
+        "lemma": "unblooming",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135518.4006603
+    },
+    "acquilegia": {
+      "word": "acquilegia",
+      "data": {
+        "full_form": "acquilegia",
+        "lemma": "acquilegia",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135537.5353591
+    },
+    "sarcophogi": {
+      "word": "sarcophogi",
+      "data": {
+        "full_form": "sarcophogi",
+        "lemma": "sarcophogi",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135549.6525588
+    },
+    "justable": {
+      "word": "justable",
+      "data": {
+        "full_form": "justable",
+        "lemma": "justable",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135570.7578864
+    },
+    "chairback": {
+      "word": "chairback",
+      "data": {
+        "full_form": "chairback",
+        "lemma": "chairback",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135574.7987437
+    },
+    "hypnotise": {
+      "word": "hypnotise",
+      "data": {
+        "full_form": "hypnotise",
+        "lemma": "hypnotise",
+        "pos": "VERB",
+        "frequency": 2
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135604.427387
+    },
+    "personalness": {
+      "word": "personalness",
+      "data": {
+        "full_form": "personalness",
+        "lemma": "personalness",
+        "pos": "NOUN",
+        "frequency": 3
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135610.066439
+    },
+    "dompteuse": {
+      "word": "dompteuse",
+      "data": {
+        "full_form": "dompteuse",
+        "lemma": "dompteuse",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135618.1310172
+    },
+    "exultance": {
+      "word": "exultance",
+      "data": {
+        "full_form": "exultance",
+        "lemma": "exultance",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135622.0675995
+    },
+    "rocketting": {
+      "word": "rocketting",
+      "data": {
+        "full_form": "rocketting",
+        "lemma": "rockette",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135632.7774262
+    },
+    "blas\u00e9": {
+      "word": "blas\u00e9",
+      "data": {
+        "full_form": "blas\u00e9",
+        "lemma": "blas\u00e9",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135637.030176
+    },
+    "na\u00efvely": {
+      "word": "na\u00efvely",
+      "data": {
+        "full_form": "na\u00efvely",
+        "lemma": "na\u00efvely",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135641.04543
+    },
+    "is_-": {
+      "word": "is_-",
+      "data": {
+        "full_form": "is_-",
+        "lemma": "is_-",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135759.4996662
+    },
+    "ch\u00e2let": {
+      "word": "ch\u00e2let",
+      "data": {
+        "full_form": "ch\u00e2let",
+        "lemma": "ch\u00e2let",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135766.3844812
+    },
+    "\u00e9viter": {
+      "word": "\u00e9viter",
+      "data": {
+        "full_form": "\u00e9viter",
+        "lemma": "\u00e9viter",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135771.4126294
+    },
+    "g\u00eane": {
+      "word": "g\u00eane",
+      "data": {
+        "full_form": "g\u00eane",
+        "lemma": "g\u00eane",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135774.2080605
+    },
+    "-_his": {
+      "word": "-_his",
+      "data": {
+        "full_form": "-_his",
+        "lemma": "-_his",
+        "pos": "PRON",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135776.3502407
+    },
+    "tangible_-": {
+      "word": "tangible_-",
+      "data": {
+        "full_form": "tangible_-",
+        "lemma": "tangible_-",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135778.1790092
+    },
+    "soign\u00e9e_-": {
+      "word": "soign\u00e9e_-",
+      "data": {
+        "full_form": "soign\u00e9e_-",
+        "lemma": "soign\u00e9e_-",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135781.5714614
+    },
+    "recherch\u00e9": {
+      "word": "recherch\u00e9",
+      "data": {
+        "full_form": "recherch\u00e9",
+        "lemma": "recherch\u00e9",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135786.168126
+    },
+    "ch\u00e2lets": {
+      "word": "ch\u00e2lets",
+      "data": {
+        "full_form": "ch\u00e2lets",
+        "lemma": "ch\u00e2let",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135790.0517323
+    },
+    "fascinatin": {
+      "word": "fascinatin",
+      "data": {
+        "full_form": "fascinatin",
+        "lemma": "fascinatin",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135796.7154803
+    },
+    "r\u00e9sum\u00e9": {
+      "word": "r\u00e9sum\u00e9",
+      "data": {
+        "full_form": "r\u00e9sum\u00e9",
+        "lemma": "r\u00e9sum\u00e9",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135799.5438693
+    },
+    "ch\u00e2teau": {
+      "word": "ch\u00e2teau",
+      "data": {
+        "full_form": "ch\u00e2teau",
+        "lemma": "ch\u00e2teau",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "romance_novel_neologisms",
+      "timestamp": 1742135803.0432816
+    },
+    "incitants": {
+      "word": "incitants",
+      "data": {
+        "full_form": "incitants",
+        "lemma": "incitant",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136473.9125068
+    },
+    "jeds": {
+      "word": "jeds",
+      "data": {
+        "full_form": "jeds",
+        "lemma": "jed",
+        "pos": "NOUN",
+        "frequency": 5
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136512.7157888
+    },
+    "imaginers": {
+      "word": "imaginers",
+      "data": {
+        "full_form": "imaginers",
+        "lemma": "imaginer",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136517.6411877
+    },
+    "clitterings": {
+      "word": "clitterings",
+      "data": {
+        "full_form": "clitterings",
+        "lemma": "clittering",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136573.998494
+    },
+    "bedmates": {
+      "word": "bedmates",
+      "data": {
+        "full_form": "bedmates",
+        "lemma": "bedmate",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136581.6962779
+    },
+    "sprayings": {
+      "word": "sprayings",
+      "data": {
+        "full_form": "sprayings",
+        "lemma": "spraying",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136242.0716577
+    },
+    "upboilings": {
+      "word": "upboilings",
+      "data": {
+        "full_form": "upboilings",
+        "lemma": "upboiling",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136622.8401241
+    },
+    "upburstings": {
+      "word": "upburstings",
+      "data": {
+        "full_form": "upburstings",
+        "lemma": "upbursting",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136630.3993611
+    },
+    "mutilatings": {
+      "word": "mutilatings",
+      "data": {
+        "full_form": "mutilatings",
+        "lemma": "mutilating",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136549.8253987
+    },
+    "cranings": {
+      "word": "cranings",
+      "data": {
+        "full_form": "cranings",
+        "lemma": "craning",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136553.78492
+    },
+    "speedings": {
+      "word": "speedings",
+      "data": {
+        "full_form": "speedings",
+        "lemma": "speeding",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136557.212325
+    },
+    "consortings": {
+      "word": "consortings",
+      "data": {
+        "full_form": "consortings",
+        "lemma": "consorting",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136564.1161947
+    },
+    "lumpings": {
+      "word": "lumpings",
+      "data": {
+        "full_form": "lumpings",
+        "lemma": "lumping",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136567.7304
+    },
+    "moundings": {
+      "word": "moundings",
+      "data": {
+        "full_form": "moundings",
+        "lemma": "mounding",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136627.057331
+    },
+    "stenchings": {
+      "word": "stenchings",
+      "data": {
+        "full_form": "stenchings",
+        "lemma": "stenching",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136634.7008486
+    },
+    "dumpings": {
+      "word": "dumpings",
+      "data": {
+        "full_form": "dumpings",
+        "lemma": "dumping",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136654.4430459
+    },
+    "noisings": {
+      "word": "noisings",
+      "data": {
+        "full_form": "noisings",
+        "lemma": "noising",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136660.325909
+    },
+    "defyings": {
+      "word": "defyings",
+      "data": {
+        "full_form": "defyings",
+        "lemma": "defying",
+        "pos": "NOUN",
+        "frequency": 3
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136670.8552082
+    },
+    "clumpings": {
+      "word": "clumpings",
+      "data": {
+        "full_form": "clumpings",
+        "lemma": "clumping",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136709.6241286
+    },
+    "admittings": {
+      "word": "admittings",
+      "data": {
+        "full_form": "admittings",
+        "lemma": "admitting",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136714.5069196
+    },
+    "regrettings": {
+      "word": "regrettings",
+      "data": {
+        "full_form": "regrettings",
+        "lemma": "regretting",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136718.9040842
+    },
+    "burdenings": {
+      "word": "burdenings",
+      "data": {
+        "full_form": "burdenings",
+        "lemma": "burdening",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136724.0438464
+    },
+    "smellings": {
+      "word": "smellings",
+      "data": {
+        "full_form": "smellings",
+        "lemma": "smelling",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136727.8967206
+    },
+    "uppings": {
+      "word": "uppings",
+      "data": {
+        "full_form": "uppings",
+        "lemma": "upping",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136731.5852525
+    },
+    "pantechnicons": {
+      "word": "pantechnicons",
+      "data": {
+        "full_form": "pantechnicons",
+        "lemma": "pantechnicon",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136830.3751378
+    },
+    "searchlights": {
+      "word": "searchlights",
+      "data": {
+        "full_form": "searchlights",
+        "lemma": "searchlight",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136959.1898143
+    },
+    "imperialisms": {
+      "word": "imperialisms",
+      "data": {
+        "full_form": "imperialisms",
+        "lemma": "imperialism",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136976.9564304
+    },
+    "eeded": {
+      "word": "eeded",
+      "data": {
+        "full_form": "eeded",
+        "lemma": "eede",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742136998.2272744
+    },
+    "custed": {
+      "word": "custed",
+      "data": {
+        "full_form": "custed",
+        "lemma": "custe",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_neo_combinations",
+      "timestamp": 1742137006.1734602
+    },
+    "unfoaled": {
+      "word": "unfoaled",
+      "data": {
+        "full_form": "unfoaled",
+        "lemma": "unfoale",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137498.6353157
+    },
+    "sighters": {
+      "word": "sighters",
+      "data": {
+        "full_form": "sighters",
+        "lemma": "sighter",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137505.2278242
+    },
+    "mastodonian": {
+      "word": "mastodonian",
+      "data": {
+        "full_form": "mastodonian",
+        "lemma": "mastodonian",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137613.9023278
+    },
+    "rechart": {
+      "word": "rechart",
+      "data": {
+        "full_form": "rechart",
+        "lemma": "rechart",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137641.4152977
+    },
+    "drearly": {
+      "word": "drearly",
+      "data": {
+        "full_form": "drearly",
+        "lemma": "drearly",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137821.0168142
+    },
+    "frightenedness": {
+      "word": "frightenedness",
+      "data": {
+        "full_form": "frightenedness",
+        "lemma": "frightenedness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137853.1100469
+    },
+    "wardership": {
+      "word": "wardership",
+      "data": {
+        "full_form": "wardership",
+        "lemma": "wardership",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137971.3816233
+    },
+    "overplain": {
+      "word": "overplain",
+      "data": {
+        "full_form": "overplain",
+        "lemma": "overplain",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137976.5022938
+    },
+    "usualness": {
+      "word": "usualness",
+      "data": {
+        "full_form": "usualness",
+        "lemma": "usualness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137982.4339852
+    },
+    "bewit": {
+      "word": "bewit",
+      "data": {
+        "full_form": "bewit",
+        "lemma": "bewit",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742137997.752707
+    },
+    "overswiftness": {
+      "word": "overswiftness",
+      "data": {
+        "full_form": "overswiftness",
+        "lemma": "overswiftness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138056.6995077
+    },
+    "oversound": {
+      "word": "oversound",
+      "data": {
+        "full_form": "oversound",
+        "lemma": "oversound",
+        "pos": "ADJ",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138113.7600543
+    },
+    "thatwards": {
+      "word": "thatwards",
+      "data": {
+        "full_form": "thatwards",
+        "lemma": "thatwards",
+        "pos": "ADV",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138115.1413443
+    },
+    "wareness": {
+      "word": "wareness",
+      "data": {
+        "full_form": "wareness",
+        "lemma": "wareness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138120.2698076
+    },
+    "siftering": {
+      "word": "siftering",
+      "data": {
+        "full_form": "siftering",
+        "lemma": "siftering",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138186.489605
+    },
+    "offwards": {
+      "word": "offwards",
+      "data": {
+        "full_form": "offwards",
+        "lemma": "offwards",
+        "pos": "ADV",
+        "frequency": 3
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138189.8891566
+    },
+    "upjutting": {
+      "word": "upjutting",
+      "data": {
+        "full_form": "upjutting",
+        "lemma": "upjutte",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138199.7386522
+    },
+    "oversurety": {
+      "word": "oversurety",
+      "data": {
+        "full_form": "oversurety",
+        "lemma": "oversurety",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138203.5008378
+    },
+    "unfilling": {
+      "word": "unfilling",
+      "data": {
+        "full_form": "unfilling",
+        "lemma": "unfilling",
+        "pos": "ADJ",
+        "frequency": 3
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138320.7518795
+    },
+    "exciteent": {
+      "word": "exciteent",
+      "data": {
+        "full_form": "exciteent",
+        "lemma": "exciteent",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138324.846636
+    },
+    "forsakeness": {
+      "word": "forsakeness",
+      "data": {
+        "full_form": "forsakeness",
+        "lemma": "forsakeness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138328.7523673
+    },
+    "improperness": {
+      "word": "improperness",
+      "data": {
+        "full_form": "improperness",
+        "lemma": "improperness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138332.6304944
+    },
+    "overnear": {
+      "word": "overnear",
+      "data": {
+        "full_form": "overnear",
+        "lemma": "overnear",
+        "pos": "VERB",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138335.9583895
+    },
+    "thatwise": {
+      "word": "thatwise",
+      "data": {
+        "full_form": "thatwise",
+        "lemma": "thatwise",
+        "pos": "ADV",
+        "frequency": 5
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138338.7774832
+    },
+    "overwards": {
+      "word": "overwards",
+      "data": {
+        "full_form": "overwards",
+        "lemma": "overwards",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138343.7437396
+    },
+    "unprotection": {
+      "word": "unprotection",
+      "data": {
+        "full_form": "unprotection",
+        "lemma": "unprotection",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138348.1519973
+    },
+    "alackness": {
+      "word": "alackness",
+      "data": {
+        "full_form": "alackness",
+        "lemma": "alackness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138353.9814458
+    },
+    "awakedness": {
+      "word": "awakedness",
+      "data": {
+        "full_form": "awakedness",
+        "lemma": "awakedness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138359.7523806
+    },
+    "womanheart": {
+      "word": "womanheart",
+      "data": {
+        "full_form": "womanheart",
+        "lemma": "womanheart",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138365.720927
+    },
+    "worseness": {
+      "word": "worseness",
+      "data": {
+        "full_form": "worseness",
+        "lemma": "worsenes",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138374.2199912
+    },
+    "harkt": {
+      "word": "harkt",
+      "data": {
+        "full_form": "harkt",
+        "lemma": "harkt",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138426.8284998
+    },
+    "firepit": {
+      "word": "firepit",
+      "data": {
+        "full_form": "firepit",
+        "lemma": "firepit",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138462.3365042
+    },
+    "overtravel": {
+      "word": "overtravel",
+      "data": {
+        "full_form": "overtravel",
+        "lemma": "overtravel",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138466.0470166
+    },
+    "englamoured": {
+      "word": "englamoured",
+      "data": {
+        "full_form": "englamoured",
+        "lemma": "englamoured",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138526.78305
+    },
+    "uncertainness": {
+      "word": "uncertainness",
+      "data": {
+        "full_form": "uncertainness",
+        "lemma": "uncertainness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138544.8706117
+    },
+    "oddways": {
+      "word": "oddways",
+      "data": {
+        "full_form": "oddways",
+        "lemma": "oddways",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138608.9988346
+    },
+    "upwise": {
+      "word": "upwise",
+      "data": {
+        "full_form": "upwise",
+        "lemma": "upwise",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138613.385311
+    },
+    "lackness": {
+      "word": "lackness",
+      "data": {
+        "full_form": "lackness",
+        "lemma": "lackness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138622.4011288
+    },
+    "oddwhiles": {
+      "word": "oddwhiles",
+      "data": {
+        "full_form": "oddwhiles",
+        "lemma": "oddwhiles",
+        "pos": "ADV",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138631.591431
+    },
+    "clumpt": {
+      "word": "clumpt",
+      "data": {
+        "full_form": "clumpt",
+        "lemma": "clumpt",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138635.748305
+    },
+    "barenness": {
+      "word": "barenness",
+      "data": {
+        "full_form": "barenness",
+        "lemma": "barenness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138639.3366842
+    },
+    "petaters": {
+      "word": "petaters",
+      "data": {
+        "full_form": "petaters",
+        "lemma": "petater",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138645.4779418
+    },
+    "back)-": {
+      "word": "back)-",
+      "data": {
+        "full_form": "back)-",
+        "lemma": "back)-",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138647.1041389
+    },
+    "creering": {
+      "word": "creering",
+      "data": {
+        "full_form": "creering",
+        "lemma": "creere",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138796.1469197
+    },
+    "relentlesss": {
+      "word": "relentlesss",
+      "data": {
+        "full_form": "relentlesss",
+        "lemma": "relentlesss",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138811.31045
+    },
+    "lurve": {
+      "word": "lurve",
+      "data": {
+        "full_form": "lurve",
+        "lemma": "lurve",
+        "pos": "VERB",
+        "frequency": 3
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138816.1174808
+    },
+    "pallish": {
+      "word": "pallish",
+      "data": {
+        "full_form": "pallish",
+        "lemma": "pallish",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138829.0559726
+    },
+    "motorcar": {
+      "word": "motorcar",
+      "data": {
+        "full_form": "motorcar",
+        "lemma": "motorcar",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138879.7061257
+    },
+    "tyreless": {
+      "word": "tyreless",
+      "data": {
+        "full_form": "tyreless",
+        "lemma": "tyreless",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138884.1361122
+    },
+    "disgustingness": {
+      "word": "disgustingness",
+      "data": {
+        "full_form": "disgustingness",
+        "lemma": "disgustingness",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138889.0789568
+    },
+    "statoscope": {
+      "word": "statoscope",
+      "data": {
+        "full_form": "statoscope",
+        "lemma": "statoscope",
+        "pos": "NOUN",
+        "frequency": 4
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138908.3413403
+    },
+    "eddyingly": {
+      "word": "eddyingly",
+      "data": {
+        "full_form": "eddyingly",
+        "lemma": "eddyingly",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138919.014111
+    },
+    "unfish": {
+      "word": "unfish",
+      "data": {
+        "full_form": "unfish",
+        "lemma": "unfish",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742138940.2004585
+    },
+    "smallways": {
+      "word": "smallways",
+      "data": {
+        "full_form": "Smallways",
+        "lemma": "smallway",
+        "pos": "NOUN",
+        "frequency": 15
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139017.0436163
+    },
+    "loofah": {
+      "word": "loofah",
+      "data": {
+        "full_form": "loofah",
+        "lemma": "loofah",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139031.8850658
+    },
+    "hochgeboren": {
+      "word": "hochgeboren",
+      "data": {
+        "full_form": "hochgeboren",
+        "lemma": "hochgeboren",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139038.0174701
+    },
+    "chuge": {
+      "word": "chuge",
+      "data": {
+        "full_form": "chuge",
+        "lemma": "chuge",
+        "pos": "VERB",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139041.6398675
+    },
+    "worldt": {
+      "word": "worldt",
+      "data": {
+        "full_form": "worldt",
+        "lemma": "worldt",
+        "pos": "NOUN",
+        "frequency": 3
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139046.363798
+    },
+    "undershtandt": {
+      "word": "undershtandt",
+      "data": {
+        "full_form": "undershtandt",
+        "lemma": "undershtandt",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139050.8172984
+    },
+    "afraidt": {
+      "word": "afraidt",
+      "data": {
+        "full_form": "afraidt",
+        "lemma": "afraidt",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139053.3912206
+    },
+    "groundts": {
+      "word": "groundts",
+      "data": {
+        "full_form": "groundts",
+        "lemma": "groundt",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139058.7775567
+    },
+    "brafely": {
+      "word": "brafely",
+      "data": {
+        "full_form": "brafely",
+        "lemma": "brafely",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139063.0524483
+    },
+    "performt": {
+      "word": "performt",
+      "data": {
+        "full_form": "performt",
+        "lemma": "performt",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139065.8469222
+    },
+    "enonymously": {
+      "word": "enonymously",
+      "data": {
+        "full_form": "Enonymously",
+        "lemma": "enonymously",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139084.403974
+    },
+    "annoyt": {
+      "word": "annoyt",
+      "data": {
+        "full_form": "annoyt",
+        "lemma": "annoyt",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139136.93942
+    },
+    "gompletely": {
+      "word": "gompletely",
+      "data": {
+        "full_form": "gompletely",
+        "lemma": "gompletely",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139228.0576165
+    },
+    "hadt": {
+      "word": "hadt",
+      "data": {
+        "full_form": "hadt",
+        "lemma": "hadt",
+        "pos": "AUX",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139233.424743
+    },
+    "anyzing": {
+      "word": "anyzing",
+      "data": {
+        "full_form": "anyzing",
+        "lemma": "anyze",
+        "pos": "VERB",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139245.4920516
+    },
+    "poundts": {
+      "word": "poundts",
+      "data": {
+        "full_form": "poundts",
+        "lemma": "poundt",
+        "pos": "NOUN",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139248.490488
+    },
+    "approffed": {
+      "word": "approffed",
+      "data": {
+        "full_form": "approffed",
+        "lemma": "approffe",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139252.4526985
+    },
+    "couldt": {
+      "word": "couldt",
+      "data": {
+        "full_form": "Couldt",
+        "lemma": "couldt",
+        "pos": "AUX",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139255.5465467
+    },
+    "pearer": {
+      "word": "pearer",
+      "data": {
+        "full_form": "pearer",
+        "lemma": "pearer",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139259.2217324
+    },
+    "understandt": {
+      "word": "understandt",
+      "data": {
+        "full_form": "understandt",
+        "lemma": "understandt",
+        "pos": "VERB",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139261.7114546
+    },
+    "undergallery": {
+      "word": "undergallery",
+      "data": {
+        "full_form": "undergallery",
+        "lemma": "undergallery",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139274.4807413
+    },
+    "squeamy": {
+      "word": "squeamy",
+      "data": {
+        "full_form": "squeamy",
+        "lemma": "squeamy",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139295.2616527
+    },
+    "fightingagainst": {
+      "word": "fightingagainst",
+      "data": {
+        "full_form": "fightingagainst",
+        "lemma": "fightingagainst",
+        "pos": "ADP",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139298.3954265
+    },
+    "overnourished": {
+      "word": "overnourished",
+      "data": {
+        "full_form": "overnourished",
+        "lemma": "overnourished",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139321.4905093
+    },
+    "imromptu": {
+      "word": "imromptu",
+      "data": {
+        "full_form": "imromptu",
+        "lemma": "imromptu",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139324.852502
+    },
+    "whad": {
+      "word": "whad",
+      "data": {
+        "full_form": "whad",
+        "lemma": "whad",
+        "pos": "PRON",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139327.3710437
+    },
+    "uninitated": {
+      "word": "uninitated",
+      "data": {
+        "full_form": "uninitated",
+        "lemma": "uninitated",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139329.873112
+    },
+    "clitter": {
+      "word": "clitter",
+      "data": {
+        "full_form": "clitter",
+        "lemma": "clitter",
+        "pos": "NOUN",
+        "frequency": 5
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139350.3580534
+    },
+    "meawling": {
+      "word": "meawling",
+      "data": {
+        "full_form": "meawling",
+        "lemma": "meawle",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139361.5546973
+    },
+    "raggin": {
+      "word": "raggin",
+      "data": {
+        "full_form": "raggin",
+        "lemma": "raggin",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139369.8329582
+    },
+    "arfway": {
+      "word": "arfway",
+      "data": {
+        "full_form": "arfway",
+        "lemma": "arfway",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139375.1522076
+    },
+    "perspectived": {
+      "word": "perspectived",
+      "data": {
+        "full_form": "perspectived",
+        "lemma": "perspectived",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139470.4896793
+    },
+    "deyse": {
+      "word": "deyse",
+      "data": {
+        "full_form": "Deyse",
+        "lemma": "deyse",
+        "pos": "PRON",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139481.7858078
+    },
+    "dureresque": {
+      "word": "dureresque",
+      "data": {
+        "full_form": "Dureresque",
+        "lemma": "dureresque",
+        "pos": "ADJ",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139521.2981353
+    },
+    "rainworn": {
+      "word": "rainworn",
+      "data": {
+        "full_form": "rainworn",
+        "lemma": "rainworn",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139524.7105243
+    },
+    "urrying": {
+      "word": "urrying",
+      "data": {
+        "full_form": "urrying",
+        "lemma": "urrye",
+        "pos": "VERB",
+        "frequency": 2
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139532.2847404
+    },
+    "eaped": {
+      "word": "eaped",
+      "data": {
+        "full_form": "eaped",
+        "lemma": "eape",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139535.8054469
+    },
+    "smorning": {
+      "word": "smorning",
+      "data": {
+        "full_form": "smorning",
+        "lemma": "smorne",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139539.554841
+    },
+    "nadian": {
+      "word": "nadian",
+      "data": {
+        "full_form": "nadian",
+        "lemma": "nadian",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139542.9481416
+    },
+    "workhuss": {
+      "word": "workhuss",
+      "data": {
+        "full_form": "workhuss",
+        "lemma": "workhuss",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139569.9692876
+    },
+    "atchet": {
+      "word": "atchet",
+      "data": {
+        "full_form": "atchet",
+        "lemma": "atchet",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139609.5649602
+    },
+    "feenancier": {
+      "word": "feenancier",
+      "data": {
+        "full_form": "feenancier",
+        "lemma": "feenancier",
+        "pos": "NOUN",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139615.7838466
+    },
+    "mocely": {
+      "word": "mocely",
+      "data": {
+        "full_form": "mocely",
+        "lemma": "mocely",
+        "pos": "ADV",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139619.9662085
+    },
+    "stummicked": {
+      "word": "stummicked",
+      "data": {
+        "full_form": "stummicked",
+        "lemma": "stummicked",
+        "pos": "ADJ",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139623.7311873
+    },
+    "muddlin": {
+      "word": "muddlin",
+      "data": {
+        "full_form": "muddlin",
+        "lemma": "muddlin",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139626.8751361
+    },
+    "smeshed": {
+      "word": "smeshed",
+      "data": {
+        "full_form": "smeshed",
+        "lemma": "smeshe",
+        "pos": "VERB",
+        "frequency": 1
+      },
+      "dictionary": "scifi_novel_neologisms",
+      "timestamp": 1742139629.2303681
+    }
+  },
+  "last_dict": "scifi_novel_neologisms",
+  "last_index": 149
+}

@@ -1,0 +1,228 @@
+{
+  "aggregated_tokens": {
+    "incitants": {
+      "full_form": "incitants",
+      "lemma": "incitant",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "sidestepped": {
+      "full_form": "sidestepped",
+      "lemma": "sidestep",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "jeds": {
+      "full_form": "jeds",
+      "lemma": "jed",
+      "pos": "NOUN",
+      "frequency": 5
+    },
+    "imaginers": {
+      "full_form": "imaginers",
+      "lemma": "imaginer",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "mutilatings": {
+      "full_form": "mutilatings",
+      "lemma": "mutilating",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "cranings": {
+      "full_form": "cranings",
+      "lemma": "craning",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "speedings": {
+      "full_form": "speedings",
+      "lemma": "speeding",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "consortings": {
+      "full_form": "consortings",
+      "lemma": "consorting",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "lumpings": {
+      "full_form": "lumpings",
+      "lemma": "lumping",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "clitterings": {
+      "full_form": "clitterings",
+      "lemma": "clittering",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "bedmates": {
+      "full_form": "bedmates",
+      "lemma": "bedmate",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "sprayings": {
+      "full_form": "sprayings",
+      "lemma": "spraying",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "upboilings": {
+      "full_form": "upboilings",
+      "lemma": "upboiling",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "moundings": {
+      "full_form": "moundings",
+      "lemma": "mounding",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "upburstings": {
+      "full_form": "upburstings",
+      "lemma": "upbursting",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "stenchings": {
+      "full_form": "stenchings",
+      "lemma": "stenching",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "thuddings": {
+      "full_form": "thuddings",
+      "lemma": "thudding",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "dumpings": {
+      "full_form": "dumpings",
+      "lemma": "dumping",
+      "pos": "NOUN",
+      "frequency": 2
+    },
+    "noisings": {
+      "full_form": "noisings",
+      "lemma": "noising",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "musclings": {
+      "full_form": "musclings",
+      "lemma": "muscling",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "defyings": {
+      "full_form": "defyings",
+      "lemma": "defying",
+      "pos": "NOUN",
+      "frequency": 3
+    },
+    "adventurings": {
+      "full_form": "adventurings",
+      "lemma": "adventuring",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "clumpings": {
+      "full_form": "clumpings",
+      "lemma": "clumping",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "admittings": {
+      "full_form": "admittings",
+      "lemma": "admitting",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "regrettings": {
+      "full_form": "regrettings",
+      "lemma": "regretting",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "burdenings": {
+      "full_form": "burdenings",
+      "lemma": "burdening",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "smellings": {
+      "full_form": "smellings",
+      "lemma": "smelling",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "uppings": {
+      "full_form": "uppings",
+      "lemma": "upping",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "aeroplanes": {
+      "full_form": "Aeroplanes",
+      "lemma": "aeroplane",
+      "pos": "NOUN",
+      "frequency": 17
+    },
+    "pantechnicons": {
+      "full_form": "pantechnicons",
+      "lemma": "pantechnicon",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "gramophones": {
+      "full_form": "gramophones",
+      "lemma": "gramophone",
+      "pos": "NOUN",
+      "frequency": 2
+    },
+    "chugments": {
+      "full_form": "chugments",
+      "lemma": "chugment",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "searchlights": {
+      "full_form": "searchlights",
+      "lemma": "searchlight",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "imperialisms": {
+      "full_form": "imperialisms",
+      "lemma": "imperialism",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "sniped": {
+      "full_form": "sniped",
+      "lemma": "snipe",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "eeded": {
+      "full_form": "eeded",
+      "lemma": "eede",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "custed": {
+      "full_form": "custed",
+      "lemma": "custe",
+      "pos": "VERB",
+      "frequency": 1
+    }
+  },
+  "total_tokens": 37,
+  "unique_tokens": 37
+}

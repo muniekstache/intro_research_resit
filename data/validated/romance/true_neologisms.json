@@ -1,0 +1,78 @@
+{
+  "aggregated_tokens": {
+    "modernities": {
+      "full_form": "modernities",
+      "lemma": "modernity",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "waldflute": {
+      "full_form": "waldflute",
+      "lemma": "waldflute",
+      "pos": "NOUN",
+      "frequency": 2
+    },
+    "washableness": {
+      "full_form": "washableness",
+      "lemma": "washableness",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "unsporting": {
+      "full_form": "unsporting",
+      "lemma": "unsporting",
+      "pos": "ADJ",
+      "frequency": 1
+    },
+    "blimme": {
+      "full_form": "Blimme",
+      "lemma": "blimme",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "tabulator": {
+      "full_form": "tabulator",
+      "lemma": "tabulator",
+      "pos": "NOUN",
+      "frequency": 3
+    },
+    "hardluck": {
+      "full_form": "hardluck",
+      "lemma": "hardluck",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "spacer": {
+      "full_form": "spacer",
+      "lemma": "spacer",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "incidentalness": {
+      "full_form": "incidentalness",
+      "lemma": "incidentalness",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "amazingness": {
+      "full_form": "amazingness",
+      "lemma": "amazingness",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "entreprenance": {
+      "full_form": "entreprenance",
+      "lemma": "entreprenance",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "fiercened": {
+      "full_form": "fiercened",
+      "lemma": "fiercene",
+      "pos": "VERB",
+      "frequency": 1
+    }
+  },
+  "total_tokens": 12,
+  "unique_tokens": 12
+}

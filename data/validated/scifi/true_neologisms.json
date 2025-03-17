@@ -1,0 +1,360 @@
+{
+  "aggregated_tokens": {
+    "togetherness": {
+      "full_form": "togetherness",
+      "lemma": "togetherness",
+      "pos": "NOUN",
+      "frequency": 3
+    },
+    "sidestepped": {
+      "full_form": "sidestepped",
+      "lemma": "sidestep",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "thuddings": {
+      "full_form": "thuddings",
+      "lemma": "thudding",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "musclings": {
+      "full_form": "musclings",
+      "lemma": "muscling",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "adventurings": {
+      "full_form": "adventurings",
+      "lemma": "adventuring",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "aeroplanes": {
+      "full_form": "Aeroplanes",
+      "lemma": "aeroplane",
+      "pos": "NOUN",
+      "frequency": 17
+    },
+    "gramophones": {
+      "full_form": "gramophones",
+      "lemma": "gramophone",
+      "pos": "NOUN",
+      "frequency": 2
+    },
+    "chugments": {
+      "full_form": "chugments",
+      "lemma": "chugment",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "sniped": {
+      "full_form": "sniped",
+      "lemma": "snipe",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "jeddaks": {
+      "full_form": "jeddaks",
+      "lemma": "jeddak",
+      "pos": "NOUN",
+      "frequency": 8
+    },
+    "zitidars": {
+      "full_form": "zitidars",
+      "lemma": "zitidar",
+      "pos": "NOUN",
+      "frequency": 6
+    },
+    "zitidar": {
+      "full_form": "zitidar",
+      "lemma": "zitidar",
+      "pos": "NOUN",
+      "frequency": 2
+    },
+    "tharks": {
+      "full_form": "Tharks",
+      "lemma": "thark",
+      "pos": "NOUN",
+      "frequency": 2
+    },
+    "jeddak": {
+      "full_form": "jeddak",
+      "lemma": "jeddak",
+      "pos": "NOUN",
+      "frequency": 31
+    },
+    "padwar": {
+      "full_form": "padwar",
+      "lemma": "padwar",
+      "pos": "NOUN",
+      "frequency": 3
+    },
+    "barsoomian": {
+      "full_form": "Barsoomian",
+      "lemma": "barsoomian",
+      "pos": "ADJ",
+      "frequency": 2
+    },
+    "amissness": {
+      "full_form": "amissness",
+      "lemma": "amissness",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "futureness": {
+      "full_form": "futureness",
+      "lemma": "futureness",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "monstruwacans": {
+      "full_form": "Monstruwacans",
+      "lemma": "monstruwacan",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "northwardness": {
+      "full_form": "Northwardness",
+      "lemma": "northwardness",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "monstruwacan": {
+      "full_form": "Monstruwacan",
+      "lemma": "monstruwacan",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "directwards": {
+      "full_form": "directwards",
+      "lemma": "directwards",
+      "pos": "ADV",
+      "frequency": 1
+    },
+    "afraidness": {
+      "full_form": "afraidness",
+      "lemma": "afraidness",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "mossbush": {
+      "full_form": "mossbush",
+      "lemma": "mossbush",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "oddwise": {
+      "full_form": "oddwise",
+      "lemma": "oddwise",
+      "pos": "ADV",
+      "frequency": 1
+    },
+    "phlocks": {
+      "full_form": "phlocks",
+      "lemma": "phlock",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "wavewise": {
+      "full_form": "wavewise",
+      "lemma": "wavewise",
+      "pos": "ADV",
+      "frequency": 1
+    },
+    "pretestings": {
+      "full_form": "pretestings",
+      "lemma": "pretesting",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "mazingness": {
+      "full_form": "mazingness",
+      "lemma": "mazingness",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "squarking": {
+      "full_form": "squarking",
+      "lemma": "squarking",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "defyingness": {
+      "full_form": "defyingness",
+      "lemma": "defyingness",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "teuffed": {
+      "full_form": "teuffed",
+      "lemma": "teuffe",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "gyroscopic": {
+      "full_form": "gyroscopic",
+      "lemma": "gyroscopic",
+      "pos": "ADJ",
+      "frequency": 4
+    },
+    "snobocracies": {
+      "full_form": "snobocracies",
+      "lemma": "snobocracie",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "teuf": {
+      "full_form": "teuf",
+      "lemma": "teuf",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "teuffing": {
+      "full_form": "teuffing",
+      "lemma": "teuffe",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "tricars": {
+      "full_form": "tricars",
+      "lemma": "tricar",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "twankle": {
+      "full_form": "twankle",
+      "lemma": "twankle",
+      "pos": "NOUN",
+      "frequency": 2
+    },
+    "rucksack": {
+      "full_form": "rucksack",
+      "lemma": "rucksack",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "balloonette": {
+      "full_form": "balloonette",
+      "lemma": "balloonette",
+      "pos": "NOUN",
+      "frequency": 3
+    },
+    "squittering": {
+      "full_form": "squittering",
+      "lemma": "squittere",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "norfis": {
+      "full_form": "norfis",
+      "lemma": "norfis",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "rucksac": {
+      "full_form": "rucksac",
+      "lemma": "rucksac",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "gazzer": {
+      "full_form": "gazzer",
+      "lemma": "gazzer",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "remofes": {
+      "full_form": "remofes",
+      "lemma": "remofe",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "edop": {
+      "full_form": "edop",
+      "lemma": "edop",
+      "pos": "VERB",
+      "frequency": 2
+    },
+    "dthwarted": {
+      "full_form": "dthwarted",
+      "lemma": "dthwarte",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "drachenflieger": {
+      "full_form": "drachenflieger",
+      "lemma": "drachenflieger",
+      "pos": "NOUN",
+      "frequency": 19
+    },
+    "urbanised": {
+      "full_form": "urbanised",
+      "lemma": "urbanised",
+      "pos": "ADJ",
+      "frequency": 2
+    },
+    "windspread": {
+      "full_form": "windspread",
+      "lemma": "windspread",
+      "pos": "ADJ",
+      "frequency": 1
+    },
+    "powerworks": {
+      "full_form": "powerworks",
+      "lemma": "powerworks",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "battlettes": {
+      "full_form": "battlettes",
+      "lemma": "battlette",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "brekker": {
+      "full_form": "brekker",
+      "lemma": "brekker",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "smeshin": {
+      "full_form": "Smeshin",
+      "lemma": "Smeshin",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "swirroo": {
+      "full_form": "Swirroo",
+      "lemma": "swirroo",
+      "pos": "INTJ",
+      "frequency": 1
+    },
+    "decolletage": {
+      "full_form": "decolletage",
+      "lemma": "decolletage",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "rubberin": {
+      "full_form": "rubberin",
+      "lemma": "rubberin",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "deoriented": {
+      "full_form": "deoriented",
+      "lemma": "deoriente",
+      "pos": "VERB",
+      "frequency": 1
+    },
+    "flummocked": {
+      "full_form": "flummocked",
+      "lemma": "flummocke",
+      "pos": "VERB",
+      "frequency": 1
+    }
+  },
+  "total_tokens": 59,
+  "unique_tokens": 59
+}

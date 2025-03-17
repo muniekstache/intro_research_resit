@@ -1,0 +1,72 @@
+{
+  "aggregated_tokens": {
+    "washables": {
+      "full_form": "washables",
+      "lemma": "washable",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "modernities": {
+      "full_form": "modernities",
+      "lemma": "modernity",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "vanderpoels": {
+      "full_form": "Vanderpoels",
+      "lemma": "vanderpoel",
+      "pos": "NOUN",
+      "frequency": 2
+    },
+    "coniferas": {
+      "full_form": "coniferas",
+      "lemma": "conifera",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "delphiniums": {
+      "full_form": "delphiniums",
+      "lemma": "delphinium",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "biking": {
+      "full_form": "biking",
+      "lemma": "bike",
+      "pos": "VERB",
+      "frequency": 2
+    },
+    "deadbeats": {
+      "full_form": "deadbeats",
+      "lemma": "deadbeat",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "monocles": {
+      "full_form": "monocles",
+      "lemma": "monocle",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "pussycats": {
+      "full_form": "pussycats",
+      "lemma": "pussycat",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "millionairesses": {
+      "full_form": "millionairesses",
+      "lemma": "millionairess",
+      "pos": "NOUN",
+      "frequency": 1
+    },
+    "oasts": {
+      "full_form": "oasts",
+      "lemma": "oast",
+      "pos": "NOUN",
+      "frequency": 1
+    }
+  },
+  "total_tokens": 11,
+  "unique_tokens": 11
+}
